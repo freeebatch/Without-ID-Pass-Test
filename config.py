@@ -9,7 +9,7 @@ class Config(object):
     API_HASH = "719171e38be5a1f500613837b79c536f"
     ADMIN_ID = 1714266885[]
     # MongoDB database ka URL
-    DB_URL = "mongodb+srv://neoayush444:3kuwGf9jKicbDxvT@cluster0.f9vq7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    DB_URL = "mongodb+srv://nitinyadav798906:CClOsRu0f90aluACcluster0.t6r8x57.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     # Database ka naam
     DB_NAME = "Cluster0"
     # Text log channel ki ID
