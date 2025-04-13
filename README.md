@@ -34,6 +34,11 @@ This is a Telegram bot that extracts URLs from text files. It supports a variety
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/&template=https://github.com/Jitu1357/Extractor-V3)
 
+## Deploy To Render                  
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://render.com/deploy?repo=https://github.com/Nitinyadav798900/Without-ID-Pass-Test/)
+
+
 ## Note
 - Make sure all your channels and groups are created before deployment and bot made admin in all the channels
 - Keep your API credentials and tokens secure
