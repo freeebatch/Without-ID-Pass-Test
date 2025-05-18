@@ -7,7 +7,7 @@ class Config(object):
     API_ID = 27775431
     # Telegram API k
     API_HASH = "b70bb1d45a1d05236671d4cc615e40f9"
-    ADMIN_ID = 6414266397[]
+    ADMIN_ID = 6414266397,1091299275[]
     # MongoDB database ka URL
     DB_URL = "mongodb+srv://Rohitmeena64:Ajmeer234590577@cluster0.mae8oyn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     # Database ka naam
@@ -27,6 +27,6 @@ class Config(object):
     # Bot ke owner ka Telegram link
     OWNER = "https://t.me/gjskisb"
     # Thumbnail image ka URL
-    THUMB_URL = "https://telegra.ph/file/example-thumb-image.jpg" #Replace by with your Thumb URL
+    THUMB_URL = "https://graph.org/file/bf646f89954128e382403.jpg" #Replace by with your Thumb URL
     # API host ka URL
     HOST = "https://api.masterapi.tech"
