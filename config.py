@@ -23,9 +23,9 @@ class Config(object):
     # Main channel ki ID
     CHANNEL = -2446676469
     # Channel ka link
-    CH_URL = "https://t.me/gjskisb"
+    CH_URL = "https://t.me/Idkit6858"
     # Bot ke owner ka Telegram link
-    OWNER = "https://t.me/gjskisb"
+    OWNER = "https://t.me/Idkit6858"
     # Thumbnail image ka URL
     THUMB_URL = "https://graph.org/file/bf646f89954128e382403.jpg" #Replace by with your Thumb URL
     # API host ka URL
