@@ -11,7 +11,7 @@ class Config(object):
     # MongoDB database ka URL
     DB_URL = "mongodb+srv://Rohitmeena64:Ajmeer234590577@cluster0.mae8oyn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     # Database ka naam
-    DB_NAME = "Rohitmeena64"
+    DB_NAME = "Cluster0"
     # Text log channel ki ID
     TXT_LOG = -2446676469
     # Authentication log channel ki ID
